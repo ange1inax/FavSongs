@@ -22,10 +22,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/ChannelORANGE.jpeg',
-        name : 'Pyramids',
-        artist : 'Frank Ocean',
-        music : 'music/Pyramids.mp3'
+        img : 'images/Redmoon.jpeg',
+        name : 'I Wish You Roses',
+        artist : 'Kali Uchis',
+        music : 'music/IWishYouRoses.mp3'
     },
     {
         img : 'images/DAMN.jpg',
