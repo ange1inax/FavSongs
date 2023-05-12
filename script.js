@@ -23,7 +23,7 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/RedMoon.jpeg',
-        name : 'I Wish You Roses',
+        name : 'I Wish you Roses',
         artist : 'Kali Uchis',
         music : 'music/IWishYouRoses.mp3'
     },
