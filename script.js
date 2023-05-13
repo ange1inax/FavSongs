@@ -22,8 +22,20 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'WestSavannah.jpg',
+        name : 'West Savannah (feat. SZA)',
+        artist : 'Isaiah Rashad, SZA',
+        music: 'music/WestSavannah.mp3'
+    },
+    {
+        img: 'images/bubba.webp',
+        name: 'Need It',
+        artist: 'KAYTRANADA, Masego',
+        music: 'music/NeedIt.mp3'
+    },
+    {
         img : 'images/RedMoon.jpeg',
-        name : 'I Wish you Roses',
+        name : 'I Wish You Roses',
         artist : 'Kali Uchis',
         music : 'music/IWishYouRoses.mp3'
     },
@@ -36,15 +48,16 @@ const music_list = [
     {
         img : 'images/ChannelORANGE.jpeg',
         name : 'Pink Matter',
-        artist : 'Frank Ocean',
+        artist : 'Frank Ocean, Andre 3000',
         music : 'music/PinkMatter.mp3'
     },
     {
         img : 'images/GetFree.png',
         name : 'Get Free',
-        artist : 'Major Lazer',
+        artist : 'Major Lazer, Amber Coffman',
         music : 'music/GetFree.mp3'
-    }
+    },
+
 ];
 
 loadTrack(track_index);
