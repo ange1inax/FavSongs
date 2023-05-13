@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'WestSavannah.jpg',
+        img : 'images/WestSavannah.jpg',
         name : 'West Savannah (feat. SZA)',
         artist : 'Isaiah Rashad, SZA',
         music: 'music/WestSavannah.mp3'
