@@ -22,6 +22,12 @@ let updateTimer;
 
 const music_list = [
     {
+        img : 'images/Wiseman.jpg',
+        name : 'Wiseman',
+        artist : 'Frank Ocean',
+        music : 'music/Wiseman.mp3'
+    },
+    {
         img : 'images/WestSavannah.jpg',
         name : 'West Savannah (feat. SZA)',
         artist : 'Isaiah Rashad, SZA',
@@ -33,12 +39,7 @@ const music_list = [
         artist: 'KAYTRANADA, Masego',
         music: 'music/NeedIt.mp3'
     },
-    {
-        img : 'images/RedMoon.jpeg',
-        name : 'I Wish You Roses',
-        artist : 'Kali Uchis',
-        music : 'music/IWishYouRoses.mp3'
-    },
+    
     {
         img : 'images/DAMN.jpg',
         name : 'PRIDE.',
